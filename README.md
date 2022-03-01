@@ -4,7 +4,7 @@ Never miss turning in an assignment on Canvas again. Get notified by email when 
 
 ### Usage
 
-1. Clone reposistory
+1. Clone repository
 
 2. `cd` into the project's directory, and create a virtural environment
 
