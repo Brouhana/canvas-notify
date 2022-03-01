@@ -2,7 +2,7 @@
 
 Never miss turning in an assignment on Canvas again. Get notified by email when a due date is approaching.
 
-### Usage:
+### Usage
 
 1. Clone reposistory
 
