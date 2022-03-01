@@ -7,7 +7,7 @@ load_dotenv()
 COURSES_IDS = [137548, 138042, 134687, 136065]
 
 # The amount of days to be notified in advance
-NOTIFY_DAY = 10
+NOTIFY_DAY = 3
 
 # Log errors
 LOG_ERRORS = True
