@@ -38,7 +38,7 @@ Never miss turning in an assignment on Canvas again. Get notified by email when 
 
     ```
     curl -H 'Authorization: Bearer <token>'
-    https://<canvas>/api/v1/courses/<course_id>/recent_users
+    https://<canvas>/api/v1/courses?per_page=999
     ```
 
     The course id key is `id`
