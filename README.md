@@ -64,5 +64,5 @@ Never miss turning in an assignment on Canvas again. Get notified by email when 
 You can run this script many ways.
 
 1. Manually. It defeats the purpose of automation, but `python3 run.py` is foolproof I suppose.
-2. Schedule a cron job, if you have a Linux or Unix machine.
+2. Schedule a cron job, if you have a Linux or Unix machine. Modifications to the script may be necessary.
 3. Or, use a cloud service. [PythonAnywhere allows you to schedule daily tasks for free](https://help.pythonanywhere.com/pages/ScheduledTasks/)
